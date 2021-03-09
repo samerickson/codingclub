@@ -8,7 +8,7 @@ description: This is the main page that gives you some information on what codin
 
 Coding club is a place where you can learn about topics in computer science from computer science students from [Vancouver Island University](https://www.viu.ca/programs/science-and-technology/computer-science-bsc).
 
-### 🤔 What can you expect
+### 🤔 What you can expect
 
 Every lesson will be made using the following structure:
 
