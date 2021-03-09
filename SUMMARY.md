@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Coding Club](README.md)
+* [🎓Coding Club](README.md)
+* [🔗 Links](links.md)
 
