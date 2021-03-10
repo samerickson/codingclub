@@ -24,7 +24,11 @@ This program will use a function to as many squares as the user wants by:
 * For example, if the value passed to the function is **5**, it should print something like:
 
 ```text
-@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @
+@ @ @ @ @
+@ @ @ @ @
+@ @ @ @ @
+@ @ @ @ @
+@ @ @ @ @
 ```
 
 ### File Links 📝
