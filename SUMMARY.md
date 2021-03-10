@@ -38,5 +38,5 @@
     * [✅ Challenge 1 Solutions](week-2/introduction-to-c++-continued/challenge-1-print-all-the-numbers-in-a-range-again/challenge-1-solutions.md)
   * [🟥 🟦 🟩 Challenge 2: Printing Squares](week-2/introduction-to-c++-continued/challenge-2-printing-squares/README.md)
     * [✅ Challenge 2 Solutions](week-2/introduction-to-c++-continued/challenge-2-printing-squares/challenge-2-solutions.md)
-  * [👨‍💻 Challenge 4](week-2/introduction-to-c++-continued/challenge-4.md)
+  * [👨‍💻 Challenge 3](week-2/introduction-to-c++-continued/challenge-4.md)
 
