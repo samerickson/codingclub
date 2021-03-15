@@ -40,3 +40,10 @@
     * [✅ Challenge 2 Solutions](week-2/introduction-to-c++-continued/challenge-2-printing-squares/challenge-2-solutions.md)
   * [👨‍💻 Challenge 3](week-2/introduction-to-c++-continued/challenge-4.md)
 
+## Week 3
+
+* [🎮 Making Games](week-3/making-games.md)
+* [🍪 Cookie Clicker](week-3/cookie-clicker/README.md)
+  * [🧪 Cookie Clicker Challenges](week-3/cookie-clicker/cookie-clicker-challenges.md)
+* [🐱 Making Games In Scratch](week-3/making-games-in-scratch.md)
+
