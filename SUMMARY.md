@@ -47,3 +47,7 @@
   * [🧪 Cookie Clicker Challenges](week-3/cookie-clicker/cookie-clicker-challenges.md)
 * [🐱 Making Games In Scratch](week-3/making-games-in-scratch.md)
 
+## Week 4
+
+* [🍍 Lists](week-4/lists.md)
+
