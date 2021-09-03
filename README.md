@@ -1,5 +1,7 @@
 ---
-description: This is the main page that gives you some information on what coding club is.
+description: >-
+  This is the main page that gives you some information on what coding club is.
+  This webpage can be accessed at the following URL's: docs.codingclub.space
 ---
 
 # 🎓Coding Club
